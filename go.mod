@@ -1,6 +1,6 @@
-module github.com/belimawr/registry-decoder
+module github.com/belimawr/filebeat-registry-decoder
 
-go 1.18
+go 1.20
 
 require github.com/elastic/beats/v7 v7.17.9
 
