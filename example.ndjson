@@ -1,0 +1,2 @@
+{"_key":"filestream::my-log-file::native::1041043-66305","meta":{"source":"/tmp/foo.log","identifier_name":"native"},"ttl":1800000000000,"updated":[502979742,1696416120],"cursor":{"offset":458}}
+{"k":"filestream::my-log-file::native::1040242-66305","v":{"ttl":1800000000000,"updated":[507500968,1701686520],"cursor":{"offset":914},"meta":{"source":"/tmp/bar.log","identifier_name":"native"}}}
